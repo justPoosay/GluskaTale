@@ -5,6 +5,9 @@
 
 ## Status: 0% just started ??
 <br/>
+
+## ToDo: make pixel art characters
+### https://pixelartvillage.com
 <br/>
 
 # Jak zainstalować bro sybau co??????

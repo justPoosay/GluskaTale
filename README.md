@@ -10,32 +10,35 @@ Story: After an unsuccessful suicide attempt you fall into a coma, representing 
 <br/>
 
 ## Character personification
-*Flowey/Asriel* - embodiment of denial and self-hate
+*Flowey/Asriel* - self-hate
 <br/>
-*Toriel* - one of the nurses who were nice to me
+*Toriel* - Karolinka fajna
 <br/>
-*Sans* - 
+*Sans* - Dorotka
 <br/>
-*Papyrus* - 
+*Papyrus* - Łabędzica
 <br/>
-*Undyne* - 
+*Undyne* - Judyta
 <br/>
-*Monster Kid* - 
+*Monster Kid* - Gabryś
 <br/>
-*Alphys* - 
+*Alphys* - Kenny
 <br/>
-*Mettaton* - 
+*Mettaton* - Bartek gej
 <br/>
 *Asgore* - 
 <br/>
-*Chara* - 
+*Chara* - suicide thoughts
 <br/>
+*Mad Dummy* - Sage
 <br/>
+*Napstablook* - 
+<br />
 
 ## Routes
 **Neutral Route** - most basic psych ward experience, you end up living but without any conclusions
 <br/>
-**Pacifist Route** - the happy ending, you wake up after befriending everyone, cherishing your memories
+**Pacifist Route** - the happy ending, Asgore talks through your soul and all your friends meet at the playroom. you wake up after befriending everyone, cherishing your memories
 <br/>
 **Genocide Route** - the worst ending, you end up hating everyone, including yourself, and die in your own coma
 <br/>

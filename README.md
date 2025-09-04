@@ -28,7 +28,7 @@ Story: After an unsuccessful suicide attempt you fall into a coma, representing 
 <br/>
 *Asgore* - 
 <br/>
-*Chara* - suicide thoughts
+*Chara* - 
 <br/>
 *Mad Dummy* - Sage
 <br/>

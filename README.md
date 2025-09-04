@@ -2,43 +2,65 @@
 <br/>
 
 ## Main concept of the game
-Basically the Underground is an Omori type shit methaphor for your experiences in the hospital, with each area being one of the stages of grief.
+Basically the Underground is an Omori type shit metaphor for your experiences in the hospital, with each area being next stages of grief.
 <br/>
 
-Story: After an unsuccessful suicide attempt you fall into a coma, representing the player falling down to the Underground. You start your journey, meeting new characters who each stand for either a fragment of your personality or an actual person from the psych ward. Only by admitting you need help may you wake up.
+Story: After another suicide attempt, you fall into a coma.
+Inside, you return to the people you once knew in the psych ward—now only fragments of memory.
+To wake up, you must face the five stages of grief and decide your own fate.
 <br/>
 <br/>
 
-## Character personification
-*Flowey/Asriel* - self-hate
+## 1st Plan Characters
+*Flowey/Asriel* - Makarena
 <br/>
-*Toriel* - Karolinka fajna
+*Toriel* - Babcia Baśka
 <br/>
-*Sans* - Dorotka
+*Sans* - Piotr
 <br/>
-*Papyrus* - Łabędzica
+*Papyrus* - Alfredo
 <br/>
-*Undyne* - Judyta
+*Undyne* - Zuzia Leila
 <br/>
 *Monster Kid* - Gabryś
 <br/>
-*Alphys* - Kenny
+*Alphys* - Sage
 <br/>
 *Mettaton* - Bartek gej
 <br/>
-*Asgore* - 
+*Asgore* - Karolinka fajna
 <br/>
-*Chara* - 
+*Chara* - selfhate/suicide
 <br/>
-*Mad Dummy* - Sage
+*Mad Dummy* - Max/Oscar/chuj wie jakie imie
 <br/>
-*Napstablook* - 
+*Napstablook* - Pan Adrian
+<br />
+*Muffet* - Łabędzica (pajączki to leki XD)
+<br />
+<br />
+
+## 2nd Plan Characters
+*Gerson* - Dzikowski
+<br />
+*Royal Guards* - Judyta & Michał
+<br />
+*River Person* - woźna z mirindą
+<br />
+*osmiornica* - Iza Skubisz
+<br />
+*Burgerpants* - Ja
+<br />
+*Nice Cream Guy* - Natalia Burdel
+<br />
+*Temmies* - Maxym
+<br />
 <br />
 
 ## Routes
 **Neutral Route** - most basic psych ward experience, you end up living but without any conclusions
 <br/>
-**Pacifist Route** - the happy ending, Asgore talks through your soul and all your friends meet at the playroom. you wake up after befriending everyone, cherishing your memories
+**Pacifist Route** - the happy ending, Asgore talks through your soul and all your friends meet at the playroom. You wake up, now with the trauma dealt with and live on.
 <br/>
 **Genocide Route** - the worst ending, you end up hating everyone, including yourself, and die in your own coma
 <br/>

@@ -14523,17 +14523,17 @@ obj_instantnoodleitem_44
 obj_instantnoodleitem_45
 * You ate the Instant Noodles.
 obj_instantnoodleitem_85
-Long ago^1, two races&ruled over Earth^1:&HUMANS and MONSTERS^6. \E1 ^1 %
+Long ago^1, two races&ruled over Earth^1:&PUSSIES and BITCHES^6. \E1 ^1 %
 obj_introimage_70
 One day^1, war broke&out between the two&races^6. \E0 ^1 %
 obj_introimage_71
-After a long battle^1,&the humans were&victorious^6. \E1 ^1 %
+After a long battle^1,&the pussies were&victorious^6. \E1 ^1 %
 obj_introimage_72
-They sealed the monsters&underground with a magic&spell^6. \E0 ^1 %
+They sealed the bitches&underground with a magic&spell^6. \E0 ^1 %
 obj_introimage_73
 Many years later^2.^2.^5.  \E1 ^1 %
 obj_introimage_74
-      MT. EBOTT&         201X^9 \E0 %
+      MT. DICK&         201X^9 \E0 %
 obj_introimage_75
 Legends say that those&who climb the mountain&never return^5.^3 \E1 %
 obj_introimage_76

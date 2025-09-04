@@ -1,0 +1,45 @@
+Total memory used = 67798319(0x040a852f) bytes
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+29, 32, 29
+---------------------------------------------------------------
+Total memory used = 67797563(0x040a823b) bytes
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+2147483647, -2147483648, 30
+---------------------------------------------------------------
+Total memory used = 67880695(0x040bc6f7) bytes
+Pause event has been registered for this frame
+Pause event has been unregistered
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-33333, 1398, -32
+---------------------------------------------------------------
+Total memory used = 67880695(0x040bc6f7) bytes
+Pause event has been registered for this frame
+Pause event has been unregistered
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-1075, 962, 30
+---------------------------------------------------------------
+Total memory used = 67742011(0x0409a93b) bytes
+Pause event has been registered for this frame
+Pause event has been unregistered
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-21739, 576, -205
+---------------------------------------------------------------
+Total memory used = 67736379(0x0409933b) bytes
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-27027, 1358, -293
+---------------------------------------------------------------
+Total memory used = 67747267(0x0409bdc3) bytes
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-47619, 141, -844
+---------------------------------------------------------------
